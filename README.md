@@ -1,4 +1,4 @@
-# Hi, I'm Bakdaulet Argyngazy 👋
+# Hi, I'm Bakdaulet Argyngazy 
 
 **Cybersecurity Engineer & Software Developer** | Student at **Astana IT University (AITU)**  
 
@@ -8,7 +8,7 @@ When I’m not coding, I experiment with **IoT projects** or dive into **Linux i
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 - **Programming:** Python, Java, JavaScript, Bash, C++
 - **Security & Networking:** Wireshark, Packet Tracer, Kali Linux, Pentesting, Linux security  
 - **Web & Backend:** Flask, Aiogram, React
@@ -17,7 +17,7 @@ When I’m not coding, I experiment with **IoT projects** or dive into **Linux i
 
 ---
 
-## 🚀 Projects
+##  Projects
 - **[Minline](https://github.com/aitu-systems/minline)** – Python framework for Telegram bots with menus, FSM, and session management.  
 - **[D-Link Auto Reconnect](https://github.com/bakirullit/dlink-auto-reconnect)** – Script to automatically reconnect D-Link routers for stable networks.  
 - **[Specula](https://github.com/Y-not-devs/specula)** – Tool for automating monitoring of open Telegram discussions.  
@@ -25,13 +25,13 @@ When I’m not coding, I experiment with **IoT projects** or dive into **Linux i
 
 ---
 
-## 🎓 Education
-- **Astana IT University (AITU)** – Software Engineering  
+##  Education
+- **Astana IT University (AITU)** – Cybersecurity
 - Focused on cybersecurity, full-stack development, and systems automation.  
 
 ---
 
-### 🔹 About Me
+###  About Me
 - I enjoy **learning by building** rather than just reading or watching tutorials.  
 - I’m curious about **how systems fail** and how to prevent it.  
 - I value **practical projects** that leave something behind for others to use or learn from.  
